@@ -1,2 +1,3 @@
-Chapter5 comments
+# **Chapter5 comments**
+
 I found chapter5 incredibly helpful in setting up a repository in GitHub. I was able to set up the account and was able to push changes to my personal remote repository. I did notice that Git Bash does not have a man command and I will need to find the alternative version. I also noticed that GitBash does not necessarily like whenever I use the command git log --abbrev-commit --pretty=oneline --graph --branches -n 3 and acts like I need to finish giving it a command, nor does it graphicly represent the merging of the branches. I am still a little hazy on why you would use stash rather than just committing a draft and simply not pushing it to the remote repository. My biggest problems so far is actually trying just to copy/paste in out command window and I am wondering how to use Markdown correctly.
